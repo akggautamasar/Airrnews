@@ -1,4 +1,4 @@
-const API_KEY = "d7f4aec67aa64ef39093bf7fea67bac2";  
+const API_KEY = "e7a83668-9fd1-4b09-a497-b0c39dc2b7ec";  
 const newsContainer = document.getElementById("news-container");
 
 async function fetchNews() {
